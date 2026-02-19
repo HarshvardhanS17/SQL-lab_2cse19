@@ -1,4 +1,4 @@
-# Experiment 4
+# Experiment 5
 
 ## AIM
 To perform SQL aggregate operations on the EMPLOYEE table using functions such as COUNT, SUM, MAX, MIN, and AVG, and to apply string manipulation functions including UPPER, LOWER, INITCAP, and LENGTH for data transformation and analysis.
