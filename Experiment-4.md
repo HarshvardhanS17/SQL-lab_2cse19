@@ -1,6 +1,8 @@
 # Experiment 4
 
 ## AIM
+ 
+To perform basic SQL operations on the EMPLOYEE table including filtering records using comparison and logical operators, pattern matching, handling NULL values, sorting results, and performing simple arithmetic calculations on salary data.
 
 ---
 
