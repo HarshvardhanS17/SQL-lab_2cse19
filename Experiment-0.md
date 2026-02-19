@@ -16,7 +16,7 @@ Create a `Employee_Master` table and display all records from it.
 CREATE TABLE EMPLOYEE_MASTER AS SELECT * FROM EMPLOYEE;
 ```
 
-### Query
+---
 
 ```sql
 SELECT * FROM EMPLOYEE_MASTER;
